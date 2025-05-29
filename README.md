@@ -8,5 +8,5 @@ Operações escolhidas:
 > Produto Misto
 
 Responsáveis:
-Rodrigo - Soma/Subtração e Multiplicação por Escala (Produto Escalar)
+Rodrigo - Soma/Subtração e Multiplicação por Escala (Produto Escalar),
 Juliana - Produto Misto
